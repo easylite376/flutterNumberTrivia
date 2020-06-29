@@ -6,7 +6,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:meta/meta.dart';
 import 'package:numbers_app/core/error/exceptions.dart';
 import 'package:numbers_app/core/error/failures.dart';
-import 'package:numbers_app/core/platform/network_info.dart';
+import 'package:numbers_app/core/network/network_info.dart';
 import 'package:numbers_app/features/number_trivia/data/datasources/number_trivia_local_data_source.dart';
 import 'package:numbers_app/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
 import 'package:numbers_app/features/number_trivia/domain/entities/number_trivia.dart';
